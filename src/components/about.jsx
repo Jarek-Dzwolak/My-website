@@ -26,11 +26,7 @@ const About = () => {
           </div>
           <div className="lg:col-span-7 lg:grid lg:grid-cols-7 flex md:flex-row flex-col items-center md:gap-8 gap-12">
             <div className="lg:col-span-4 flex w-3/4 ">
-              <img
-                className="rounded"
-                src={photome}
-                alt="Jaroslaw Dzwolak photo"
-              />
+              <img className="rounded" src={photome} alt="Jaroslaw Dzwolak" />
             </div>
             <div className="lg:col-span-3 flex md:self-auto self-stretch grow flex-col xl:gap-16 lg:gap-8 gap-12 xl:pl-8">
               <div className="flex flex-col self-stretch gap-2 pb-4  border-neutral-400">
