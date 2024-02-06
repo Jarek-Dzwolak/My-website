@@ -11,7 +11,7 @@ function Projects() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 ">
         <div className="bg-gray-50 px-8 py-10 rounded-md">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4 ">
-            <img src={responsive} alt="responsive svg" />
+            <img src={responsive} alt="symbol responsywności" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">
             Responsywność
@@ -26,7 +26,7 @@ function Projects() {
 
         <div className="bg-gray-50 px-8 py-10 rounded-md">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4">
-            <img src={seo} alt="responsive svg" />
+            <img src={seo} alt="symbol seo" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">SEO</h4>
           <p className="font-normal text-gray-500 text-md">
@@ -39,7 +39,7 @@ function Projects() {
         </div>
         <div className="bg-gray-50 px-8 py-10 rounded-md">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4">
-            <img src={deploy} alt="responsive svg" />
+            <img src={deploy} alt="symbol deploya" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">Wdrażanie</h4>
           <p className="font-normal text-gray-500 text-md">
@@ -50,7 +50,7 @@ function Projects() {
         </div>
         <div className="bg-gray-50 px-8 py-10 rounded-md grid ">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4">
-            <img src={api} alt="responsive svg" />
+            <img src={api} alt="symbol api" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">API</h4>
           <p className="font-normal text-gray-500 text-md">
@@ -62,7 +62,7 @@ function Projects() {
         </div>
         <div className="bg-gray-50 px-8 py-10 rounded-md grid ">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4">
-            <img src={backend} alt="responsive svg" />
+            <img src={backend} alt="symbol serwera backend" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">Backend</h4>
           <p className="font-normal text-gray-500 text-md">
@@ -74,7 +74,7 @@ function Projects() {
         </div>
         <div className="bg-gray-50 px-8 py-10 rounded-md grid ">
           <div className="w-20 h-20 py-1 px-1 flex justify-center bg-gray-100 rounded-md mb-4">
-            <img src={ai} alt="responsive svg" />
+            <img src={ai} alt="Symbol sztucznej inteligencji (AI)" />
           </div>
           <h4 className="font-medium text-gray-700 text-lg mb-4">AI</h4>
           <p className="font-normal text-gray-500 text-md">
