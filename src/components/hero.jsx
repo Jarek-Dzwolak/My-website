@@ -12,7 +12,7 @@ function Hero() {
             <img
               className="rounded-full max-w-full h-auto w-32 md:w-40 lg:w-60 xl:w-80 m-3"
               src={Profilowe}
-              alt="Image"
+              alt="Jaroslaw Dzwolak photo"
             />
 
             <p className="font-medium text-gray-700 text-lg pb-4">
