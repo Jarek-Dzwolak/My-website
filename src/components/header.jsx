@@ -17,7 +17,7 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex py-6 justify-between items-center ">
           <div className="flex flex-row gap-8 items-center">
-            <p className="text-body-lg font-bold text-neutral-900">
+            <p className="text-body-lg font-bold text-neutral-900 pl-3">
               Jarek Dzwolak
             </p>
           </div>

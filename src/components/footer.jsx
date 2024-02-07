@@ -2,9 +2,12 @@ import React from "react";
 
 const Footer = () => {
   const social = [
-    { name: "GitHub", href: "#" },
-    { name: "Instagram", href: "#" },
-    { name: "LinkedIn", href: "#" },
+    { name: "GitHub", href: "https://github.com/Jarek-Dzwolak" },
+    { name: "Instagram", href: "https://www.instagram.com/jarek.dzwolak/" },
+    {
+      name: "LinkedIn",
+      href: "https://www.linkedin.com/in/jaros%C5%82aw-dzwolak-4392701a9/",
+    },
   ];
   return (
     <footer id="contact" className="bg-neutral-900 text-white">
